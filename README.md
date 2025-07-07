@@ -32,7 +32,7 @@ This project uses the [DrivenData Water Pump Challenge dataset](https://www.driv
 
 1. **Download the dataset** from DrivenData.
 2. **Place CSV files** in a `data/` folder in this project directory.
-3. **Open** the Jupyter Notebook `pump_classification.ipynb`.
+3. **Open** the Jupyter Notebook `water-pump.ipynb`.
 4. **Run** all cells to explore the data, build models, and generate predictions.
 
 ---
